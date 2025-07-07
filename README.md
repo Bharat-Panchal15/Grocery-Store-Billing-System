@@ -38,6 +38,11 @@ A terminal-based grocery store billing application built using Python. This syst
 
 ---
 
+## 👤 Author
+
+- Bharat Panchal  
+- [GitHub Profile](https://github.com/Bharat-Panchal15)
+
 ## ▶️ How to Run
 
 ```bash
